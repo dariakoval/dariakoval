@@ -4,11 +4,11 @@ Java-developer
 --------------
 
 * 🌍  I'm based in Samara, Russia
-* 📖  I’m currently reading Goldratt Eliyahu M., Cox Jeff "The Goal: A Process of Ongoing Improvement"
 * 🖥️  See my portfolio at [GitHub](http://github.com/dariakoval?tab=repositories)
 * ✉️  You can contact me at [darya.koval1993@yandex.ru](mailto:darya.koval1993@yandex.ru)
 * 🚀  I'm currently working on [Page analyzer](http://github.com/dariakoval/java-project-72)
 * 🧠  I'm learning Javalin, JDBC, HTTP API, PostgreSQL
+* 📖  I’m currently reading Goldratt Eliyahu M., Cox Jeff "The Goal: A Process of Ongoing Improvement"
 
 ### Skills
 
