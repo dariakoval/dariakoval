@@ -35,6 +35,8 @@ Java-developer
 
 <a href="http://www.github.com/dariakoval"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dariakoval&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![](https://visitcount.itsvg.in/api?id=dariakoval&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **dariakoval/dariakoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
