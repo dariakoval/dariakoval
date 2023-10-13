@@ -1,4 +1,4 @@
-<h2> Hi, I'm Darya Koval! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Darya Koval!  </h2> 
 
 Java-developer
 --------------
@@ -6,8 +6,8 @@ Java-developer
 * 🌍  I'm based in Samara, Russia
 * 🖥️  See my portfolio at [GitHub](http://github.com/dariakoval?tab=repositories)
 * ✉️  You can contact me at [darya.koval1993@yandex.ru](mailto:darya.koval1993@yandex.ru)
-* 🚀  I'm currently working on [Page analyzer](http://github.com/dariakoval/java-project-72)
-* 🧠  I'm learning Javalin, JDBC, HTTP API, PostgreSQL
+* 🚀  I'm currently working on [Task Manager](http://github.com/dariakoval/java-project-73)
+* 🧠  I'm learning Spring Boot
 * 📖  I’m currently reading Goldratt Eliyahu M., Cox Jeff "The Goal: A Process of Ongoing Improvement"
 
 ### Skills
@@ -59,6 +59,8 @@ Java-developer
 
 <!--
 **dariakoval/dariakoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Here are some ideas to get you started:
 
