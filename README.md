@@ -1,5 +1,5 @@
 <h2> Hi, I'm Darya Koval!  </h2> 
-I'm a java developer with a real passion for backend developing.
+I'm a Java developer with a real passion for server-side development.
 
 Java-developer
 --------------
