@@ -29,7 +29,7 @@ Java-developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
     </picture> 
   </a> -->
-  <a href="[https://](https://www.linkedin.com/in/darya-koval-831655298/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/darya-koval-831655298" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
