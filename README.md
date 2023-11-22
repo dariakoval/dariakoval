@@ -5,8 +5,9 @@ Java-developer
 --------------
 
 * 🌍  I'm based in Samara, Russia
-* 🖥️  See my portfolio at [GitHub](http://github.com/dariakoval?tab=repositories)
+* 🖥️  See my portfolio at [GitHub](http://github.com/dariakoval?tab=repositories)
 * ✉️  You can contact me at [darya.koval1993@yandex.ru](mailto:darya.koval1993@yandex.ru)
+* 📋  See my CV [here](https://cv.hexlet.io/ru/resumes/2675)
 * 🚀  I'm currently working on [Task Manager](http://github.com/dariakoval/java-project-99)
 * 🧠  I'm learning Spring Framework
 * 📖  I’m currently reading Goldratt Eliyahu M., Cox Jeff "The Goal: A Process of Ongoing Improvement"
