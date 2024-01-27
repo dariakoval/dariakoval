@@ -7,9 +7,12 @@ Java-developer
 * 🌍  I'm based in Samara, Russia
 * 🖥️  See my portfolio at [GitHub](http://github.com/dariakoval?tab=repositories)
 * ✉️  You can contact me at [darya.koval1993@yandex.ru](mailto:darya.koval1993@yandex.ru)
+* 📖  I’m currently reading Aditya Y. Bhargava "Grokking Algorithms"
+<!--
 * 🚀  I'm currently working on [Task Manager](http://github.com/dariakoval/java-project-99)
 * 🧠  I'm learning Spring Framework
 * 📖  I’m currently reading Goldratt Eliyahu M., Cox Jeff "The Goal: A Process of Ongoing Improvement"
+-->
 
 ### Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
